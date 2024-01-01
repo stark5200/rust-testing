@@ -9,3 +9,9 @@ fn main() {
     let mut writer = BufWriter::new(stdout.lock());
     say(&message, width, &mut writer).unwrap();
 }
+
+/* to work on any rust project from git
+$ git clone example.org/someproject
+$ cd someproject
+$ cargo build
+*/
