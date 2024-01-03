@@ -63,7 +63,7 @@ fn main() {
  * access elements: let first = a[0];
 
 
- use std::io;
+use std::io;
 
 fn main() {
     let a = [1, 2, 3, 4, 5];
@@ -86,5 +86,43 @@ fn main() {
     println!("The value of the element at index {index} is: {element}");
 } 
 
-// Functions are next:
+// Chapter 4: Ownership
+
+    let s1 = String::from("hello");
+    let s2 = s1;
+    println!("{}, world!", s1);
+    // doesn't work, both strings are stored in the heap unlike other variables, when s1 and s2 go out of scope memory manager will try to clear the same heap twice when in fact s1 and s2 point to the same place in the heap causing double free error, to avoid this problem Rust considers s1 no longer valid, in other words s1 is moved into s2.
+
+    let s1 = 5;
+    let s2 = s1;
+    println!("{}, world!", s1);
+    // This works
+
+    let s1 = String::from("hello");
+    let s2 = s1.clone();
+    println!("s1 = {}, s2 = {}", s1, s2);
+    // deep copying or cloning
+
+    fn main() {
+    let my_string = String::from("hello world");
+
+    // `first_word` works on slices of `String`s, whether partial or whole
+    let word = first_word(&my_string[0..6]);
+    let word = first_word(&my_string[..]);
+    // `first_word` also works on references to `String`s, which are equivalent
+    // to whole slices of `String`s
+    let word = first_word(&my_string);
+
+    let my_string_literal = "hello world";
+
+    // `first_word` works on slices of string literals, whether partial or whole
+    let word = first_word(&my_string_literal[0..6]);
+    let word = first_word(&my_string_literal[..]);
+
+    // Because string literals *are* string slices already,
+    // this works too, without the slice syntax!
+    let word = first_word(my_string_literal);
+}
+
+
 */
