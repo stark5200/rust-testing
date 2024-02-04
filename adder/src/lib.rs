@@ -76,6 +76,7 @@ mod tests {
     }
 
     #[test]
+    #[ignore]
     fn failed() {
         panic!("make this test fail");
     }
@@ -88,6 +89,7 @@ mod tests {
     #[test] 
     fn greeting_contains_name() {
         let result = greeting("Stark");
+        println!("Passin test prints line");
         assert!(
             result.contains("Stark"), 
             "Greeting did not contain name, value was `{}`", 
