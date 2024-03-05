@@ -45,5 +45,5 @@ fn main() {
     let d = CustomSmartPointer {
         data: String::from("other stuff"),
     };
-    println!("CustomSmartPointers created.");
+    println!("CustomSmartPointers created. hopefully i get on the right path soon.");
 }
