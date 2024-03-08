@@ -1,4 +1,4 @@
-
+// I should definetely start now.
 use std::sync::mpsc;
 use std::thread;
 
@@ -10,7 +10,7 @@ fn main() {
         tx.send(val).unwrap();
     });
 }
-
+/*
 use std::thread;
 use std::time::Duration;
 
@@ -47,3 +47,4 @@ fn main() {
     };
     println!("CustomSmartPointers created. hopefully i get on the right path soon.");
 }
+*/
