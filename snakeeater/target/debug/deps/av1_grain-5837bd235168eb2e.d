@@ -1,0 +1,11 @@
+/Users/stark/study/higher_programming/rust-testing/snakeeater/target/debug/deps/libav1_grain-5837bd235168eb2e.rmeta: /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/lib.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/create.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/diff.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/diff/solver.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/diff/solver/util.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/parse.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/util.rs
+
+/Users/stark/study/higher_programming/rust-testing/snakeeater/target/debug/deps/av1_grain-5837bd235168eb2e.d: /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/lib.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/create.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/diff.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/diff/solver.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/diff/solver/util.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/parse.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/util.rs
+
+/Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/lib.rs:
+/Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/create.rs:
+/Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/diff.rs:
+/Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/diff/solver.rs:
+/Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/diff/solver/util.rs:
+/Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/parse.rs:
+/Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/util.rs:

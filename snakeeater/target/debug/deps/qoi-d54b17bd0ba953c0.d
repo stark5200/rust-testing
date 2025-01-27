@@ -1,0 +1,13 @@
+/Users/stark/study/higher_programming/rust-testing/snakeeater/target/debug/deps/libqoi-d54b17bd0ba953c0.rmeta: /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/lib.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/decode.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/encode.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/error.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/header.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/pixel.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/types.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/utils.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/consts.rs
+
+/Users/stark/study/higher_programming/rust-testing/snakeeater/target/debug/deps/qoi-d54b17bd0ba953c0.d: /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/lib.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/decode.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/encode.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/error.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/header.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/pixel.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/types.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/utils.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/consts.rs
+
+/Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/lib.rs:
+/Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/decode.rs:
+/Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/encode.rs:
+/Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/error.rs:
+/Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/header.rs:
+/Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/pixel.rs:
+/Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/types.rs:
+/Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/utils.rs:
+/Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/consts.rs:

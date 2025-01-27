@@ -1,0 +1,12 @@
+/Users/stark/study/higher_programming/rust-testing/snakeeater/target/debug/deps/libgif-5fec40664e5cecce.rmeta: /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/lib.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/traits.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/common.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/reader/mod.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/reader/decoder.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/reader/converter.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/encoder.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/../README.md
+
+/Users/stark/study/higher_programming/rust-testing/snakeeater/target/debug/deps/gif-5fec40664e5cecce.d: /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/lib.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/traits.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/common.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/reader/mod.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/reader/decoder.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/reader/converter.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/encoder.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/../README.md
+
+/Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/lib.rs:
+/Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/traits.rs:
+/Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/common.rs:
+/Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/reader/mod.rs:
+/Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/reader/decoder.rs:
+/Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/reader/converter.rs:
+/Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/encoder.rs:
+/Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/../README.md:

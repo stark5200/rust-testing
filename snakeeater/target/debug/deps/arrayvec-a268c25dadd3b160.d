@@ -1,0 +1,11 @@
+/Users/stark/study/higher_programming/rust-testing/snakeeater/target/debug/deps/libarrayvec-a268c25dadd3b160.rmeta: /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/lib.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/arrayvec_impl.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/arrayvec.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/array_string.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/char.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/errors.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/utils.rs
+
+/Users/stark/study/higher_programming/rust-testing/snakeeater/target/debug/deps/arrayvec-a268c25dadd3b160.d: /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/lib.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/arrayvec_impl.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/arrayvec.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/array_string.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/char.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/errors.rs /Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/utils.rs
+
+/Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/lib.rs:
+/Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/arrayvec_impl.rs:
+/Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/arrayvec.rs:
+/Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/array_string.rs:
+/Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/char.rs:
+/Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/errors.rs:
+/Users/stark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/utils.rs:

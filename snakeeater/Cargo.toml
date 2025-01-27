@@ -1,0 +1,9 @@
+[package]
+name = "snakeeater"
+version = "0.1.0"
+edition = "2021"
+authors = ["stark5200"]
+
+[dependencies]
+rand = "0.8.5"
+piston_window = "0.132.0"
