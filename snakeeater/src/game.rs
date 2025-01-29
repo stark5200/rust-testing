@@ -20,6 +20,7 @@ pub struct Game {
   food_exists: bool, 
   food_x: i32, 
   food_y: i32,
+  score: i32,
 
   width: i32, 
   height: i32, 
@@ -35,6 +36,7 @@ impl Game {
       food_exists: true, 
       food_x: 6, 
       food_y: 4,
+      score: 0,
       width, 
       height, 
       game_over: false, 
@@ -102,6 +104,8 @@ impl Game {
     let (head_x, head_y): (i32, i32) = self.snake.head_position();
     if self.food_exists && self.food_x == head_x && self.food_y == head_y {
       self.food_exists = false;
+      self.score += 1;
+      println!("Score: {}", self.score);
       self.snake.restore_tail();
     } 
   }
@@ -143,11 +147,13 @@ impl Game {
   }
 
   fn restart(&mut self) {
+    self.score = 0;
     self.snake = Snake::new(2, 2);
     self.waiting_time = 0.0;
     self.food_exists = true; 
     self.food_x = 6;
     self.food_y = 4;
     self.game_over = false; 
+    println!("Score: {}", self.score);
   }
 }

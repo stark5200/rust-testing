@@ -11,10 +11,10 @@ use piston_window::types::Color;
 use game::Game;
 use draw::to_coord_u32;
 
-const BACK_COLOR: Color = [0.5, 0.5, 0.5, 1.0];
+const BACKGROUND_COLOR: Color = [0.5, 0.5, 0.5, 1.0];
 
 fn main() {
-    let (width, height) = (20, 20);
+    let (width, height) = (128, 64);
 
     let mut window: PistonWindow = WindowSettings::new(
       "Snake", 
@@ -28,7 +28,7 @@ fn main() {
         game.key_pressed(key);
       }
       window.draw_2d(&event, |c, g, _device| {
-        clear(BACK_COLOR, g);
+        clear(BACKGROUND_COLOR, g);
         game.draw(&c, g);
       });
 
